@@ -1,6 +1,5 @@
 # EC2-Random-Name-Generator
-AWS
-# EC2 Name Generator
+
 
 A Python-based tool for generating standardized EC2 instance names with department-based authorization controls.
 
