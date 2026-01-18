@@ -1,6 +1,6 @@
 # Moduel to generate random characters
 import random
-# Module to access lteeers and digits
+# Module to access letters and digits
 import string
 
 # Authorized Departments 
