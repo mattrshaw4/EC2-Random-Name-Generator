@@ -12,7 +12,7 @@ ec2_instances = int(input("How many EC2 instances do you want to name?\n"))
 # Ask user what their department is
 department_name = input("Enter your department): ")
 
-# Convert department input to lowercase for easy comp[arison]
+# Convert department input to lowercase for easy comparison
 department_name = department_name.lower()
 
 # Verify if the department is authorized to use this generator
